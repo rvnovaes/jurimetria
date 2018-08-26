@@ -1,5 +1,5 @@
 nome;idade;peso;sexo;curso;origem
-TCO;28;86,1;M;Direito;UFMG
+TCO;28;86.1;M;Direito;UFMG
 GBTV;20;71;M;Direito;UFMG
 AO;18;99,5;M;Direito;UFMG
 RC;26;81;M;Direito;UFMG
@@ -11,13 +11,13 @@ GDM;20;60;F;Direito;UFMG
 GS;22;107;M;Direito;UFMG
 OFN;19;75;M;Direito;UFMG
 IMG;21;60,8;F;Direito;UFMG
-BFG;29;65,1;F;Direito;público externo
+BFG;29;65.1;F;Direito;público externo
 HFMG;37;52;F;Educação Física;público externo
 AFP;21;115;F;Direito;UFMG
 AGM;20;70;M;Direito;UFMG
 EDC;22;95;M;Direito;UFMG
 MFSS;21;56;M;Direito;UFMG
-RCO;27;70,5;M;Direito;UFMG
+RCO;27;70.5;M;Direito;UFMG
 RCVN;45;75;F;Direito;público externo
 KCOS;38;60;F;Direito;público externo
 VMTFC;22;81;F;Direito;UFMG
